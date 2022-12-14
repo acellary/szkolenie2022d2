@@ -8,6 +8,10 @@ Jest to repozytorium szkoleniowe
 git clone git@github.com:acellary/szkolenie2022d2.git
 ```
 
+## Autorzy
+
+- Adam Cellary
+
 ## Licencja
 
 [MIT](https://choosealicense.com/licenses/mit/)
